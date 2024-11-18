@@ -2,7 +2,7 @@ Dashboard:
 ___
 <div style="display: flex; justify-content: space-between;">
     <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrokee&count_private=true&theme=radical&title_color=#ffffff" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrokee&count_private=true&theme=radical&title_color=#000000" />
     </a>
     <a>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrokee&layout=compact" />
