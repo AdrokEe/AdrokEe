@@ -5,7 +5,7 @@ ___
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrokee&count_private=true&hide=contribs,issues&include_all_commits=true" />
     </a>
     <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrokee&layout=compact" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrokee&layout=donut" />
     </a>
 </div>
 <br/>
