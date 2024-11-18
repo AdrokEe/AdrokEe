@@ -2,10 +2,10 @@ Dashboard:
 ___
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrokee&count_private=true&theme=radical" />
-</a>
-<a>
+</a><a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrokee&layout=compact" />
 </a>
+
 
 Language:
 ___
