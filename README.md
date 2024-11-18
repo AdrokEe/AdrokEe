@@ -1,1 +1,1 @@
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=for-the-badge&logo=javascript)
