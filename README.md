@@ -2,10 +2,10 @@ Dashboard:
 ___
 <div style="display: flex; justify-content: space-between;">
     <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrokee&count_private=true&hide=contribs&include_all_commits=true" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=adrokee&count_private=true&include_all_commits=true&show_icons=true&line_height=29" />
     </a>
     <a>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrokee&layout=donut-vertical" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrokee&layout=donut" />
     </a>
 </div>
 <br/>
